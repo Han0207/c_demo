@@ -2,8 +2,10 @@
 简单的C语言程序
 
 1.1-100求和
-  while实现：https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_while.c
-  for实现：https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_for.c
+  while实现：
+    https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_while.c
+  for实现：
+    https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_for.c
   
 2.打印1-100内所有的偶数，并统计个数
   https://github.com/Han0207/c_demo/blob/master/app/even_sum_1to100_for.c
