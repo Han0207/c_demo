@@ -25,4 +25,6 @@
 7.找出二维数组中的最大值以及其所在位置
 https://github.com/Han0207/c_demo/blob/master/app/find_max_in_array.c
   
+8.打印3行的三角形星号
+https://github.com/Han0207/c_demo/blob/master/app/print_star.c
 
