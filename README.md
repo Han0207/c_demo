@@ -6,6 +6,9 @@
     https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_while.c
   for实现：
     https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_for.c
+  dowhile实现：
+    https://github.com/Han0207/c_demo/blob/master/app/sum_1to100_dowhile.c
+    
   
 2.打印1-100内所有的偶数，并统计个数
   https://github.com/Han0207/c_demo/blob/master/app/even_sum_1to100_for.c
